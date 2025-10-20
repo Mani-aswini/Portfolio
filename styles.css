@@ -352,7 +352,7 @@ img {
   }
 
   .skill_python {
-    width: 85%;
+    width: 90%;
   }
   
 .skill_html {
@@ -360,15 +360,15 @@ img {
 }
 
 .skill_css {
-  width: 83%;
+  width: 9%;
 }
 
 .skill_java {
-  width: 40%;
+  width: 95%;
 }
 
 .skill_mysql {
-  width: 75%;
+  width: 90%;
 }
 
 
@@ -546,4 +546,5 @@ img {
   .home_img {
     right: 10%;
   }
+
 }
