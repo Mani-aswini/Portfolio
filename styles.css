@@ -347,9 +347,7 @@ img {
   z-index: var(--z-back);
 }
 
-.skill_c {
-    width: 95%;
-  }
+
 
   .skill_python {
     width: 90%;
@@ -360,9 +358,12 @@ img {
 }
 
 .skill_css {
-  width: 9%;
+  width: 90%;
 }
+.skill_js {
+  width: 85%;
 
+}
 .skill_java {
   width: 95%;
 }
@@ -370,7 +371,9 @@ img {
 .skill_mysql {
   width: 90%;
 }
-
+  .skill_mongoDB {
+    width: 80%;
+  }
 
 /* WORK */
 
@@ -548,3 +551,4 @@ img {
   }
 
 }
+
