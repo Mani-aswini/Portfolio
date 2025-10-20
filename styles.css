@@ -515,11 +515,7 @@ img {
     width: 100%;
   }
 
-  .about_container {
-     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    column-gap: 2rem;
-  }
+  .about_container ,
   .skills_container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -555,5 +551,6 @@ img {
   }
 
 }
+
 
 
